@@ -1,4 +1,3 @@
 ![](assets/kannibal-banner.png)
 
-# kannibal
-Techwear R&amp;D Brand
+# KANNIBAL (TECHWEAR R&D BRAND)
