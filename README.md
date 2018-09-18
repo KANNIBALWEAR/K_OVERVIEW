@@ -31,6 +31,6 @@ Cable Maintenance Array
 
 **Codename: Rollout**
 
-Variety tool poach.
+Variety rollup tool poach for heavy and tiny pieces alike. Roll out flat, has straps and slots to attach objects.
 
 
