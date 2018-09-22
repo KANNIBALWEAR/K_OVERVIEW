@@ -33,4 +33,8 @@ Cable Maintenance Array
 
 Variety rollup tool poach for heavy and tiny pieces alike. Roll out flat, has straps and slots to attach objects.
 
+**Codename: 
+
+Stealth visual application system for grafitti in form of a bag. Replacable stencil slot.
+
 
