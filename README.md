@@ -12,29 +12,18 @@ Belt with attachment slots.
 Leg accessory.
 
 **Codename: Smart Device Carrier**
-
-Open Frontal Smartphone Pouch.
-
-Bottom hole for charging.
-
-Cross-strap for positioning.
-
-Higher strap placement.
-
-Way to fold the strap.
-
-**Sizes:** iPhone 7 Plus, iPhone 7, iPhone X, Androids
+Open Frontal Smartphone Pouch. Bottom hole for charging. Cross-strap for positioning. Higher strap placement. Way to fold the strap. Sizes: iPhone 7 Plus, iPhone 7, iPhone X, Androids
 
 **Codename: X**
-
 Cable Maintenance Array
 
 **Codename: Rollout**
-
 Variety rollup tool poach for heavy and tiny pieces alike. Roll out flat, has straps and slots to attach objects.
 
-**Codename: 
-
+**Codename: X**
 Stealth visual application system for grafitti in form of a bag. Replacable stencil slot.
+
+**Codename: Snapper**
+Wrist phone holder. Insleeve solution with extendable, secure link.
 
 
