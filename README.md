@@ -21,7 +21,7 @@ Cable Maintenance Array
 Variety rollup tool poach for heavy and tiny pieces alike. Roll out flat, has straps and slots to attach objects.
 
 **Codename: X**
-Stealth visual application system for grafitti in form of a bag. Replacable stencil slot.
+Stealth visual application system for grafitti in form of a foldable bag. Replacable stencil slide-in slot. Double spray/paint can slot. Brush slot. Stencil variety selection containers. Stealth bottom hatch plug.
 
 **Codename: Snapper**
 Wrist phone holder. Insleeve solution with extendable, secure link.
