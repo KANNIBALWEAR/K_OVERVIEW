@@ -2,7 +2,7 @@
 
 # KANNIBAL (TECHWEAR R&D BRAND)
 
-# Modular Carry Systems
+# Modular Carry System (Products)
 
 **Codename: Barrel**
 
