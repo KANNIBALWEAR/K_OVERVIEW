@@ -26,4 +26,15 @@ Stealth visual application system for grafitti in form of a foldable bag. Replac
 **Codename: Snapper**
 Wrist phone holder. Insleeve solution with extendable, secure link.
 
+**Misc**
+
+- Hoodie
+- Windbreaker
+- Bags
+- Pants
+- T-shirts
+- Shoes
+- Mask
+- Holster
+- Hat
 
