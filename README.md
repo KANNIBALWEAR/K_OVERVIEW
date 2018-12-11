@@ -4,21 +4,15 @@
 
 ## Modular Carry System (Products)
 
-**Codename: Barrel** Belt with attachment slots.
+8102-L - LEGWRAP • Leg Accessory
+8102-SDC - SDC • Smart Device Carrier
+8102-CMA - CMA • Cable Maintenance Array
+8102-R - ROLLOUT • Rollup Tool Poach
+8102-T - TAGGER • Stealth Grafitti Foldable
+8102-S - SNAPPER • In-Sleeve Wrist Device Holder
+8102-B - BARREL • Modular Attachment Belt
 
-**Codename: Legwrap** Leg accessory.
-
-**Codename: Smart Device Carrier** Open Frontal Smartphone Pouch. Bottom hole for charging. Cross-strap for positioning. Higher strap placement. Way to fold the strap. Sizes: iPhone 7 Plus, iPhone 7, iPhone X, Androids
-
-**Codename: CMA** Cable Maintenance Array
-
-**Codename: Rollout** Variety rollup tool poach for heavy and tiny pieces alike. Roll out flat, has straps and slots to attach objects.
-
-**Codename: Tagger** Stealth visual application system for grafitti in form of a foldable bag. Replacable stencil slide-in slot. Double spray/paint can slot. Brush slot. Stencil variety selection containers. Stealth bottom hatch plug.
-
-**Codename: Snapper** Wrist phone holder. Insleeve solution with extendable, secure link.
-
-## MISC (Enter as separate repos)
+## ICEBOX
 
 - Hoodie
 - Windbreaker
