@@ -2,7 +2,7 @@
 
 # KANNIBAL (TECHWEAR R&D BRAND)
 
-## Modular Carry System (Products)
+## MODULAR CARRY SYSTEMS
 
 8102-L - LEGWRAP • Leg Accessory
 
