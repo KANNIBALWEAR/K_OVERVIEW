@@ -16,6 +16,8 @@
 
 8102-B - BARREL • Modular Attachment Belt
 
+9102-A - AFFECTOR VOL. I • Modular Velcro Patch Group
+
 ## HQ SYSTEMS
 
 8102-CMA - CMA • Cable Maintenance Array
@@ -32,4 +34,7 @@
 - Mask
 - Holster
 - Hat
-
+- Stickers
+- Patches
+- Stealthy Fashion Clothes
+- Accessories
