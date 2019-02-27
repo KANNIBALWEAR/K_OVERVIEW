@@ -2,6 +2,8 @@
 
 # KANNIBAL (TECHWEAR R&D BRAND)
 
+People wearing your techwear are called "carriers" (virus, disease motive).
+
 ## MODULAR CARRY SYSTEMS
 
 8102-L - LEGWRAP • Leg Accessory
