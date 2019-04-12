@@ -2,7 +2,13 @@
 
 # KANNIBAL (TECHWEAR R&D BRAND)
 
-People wearing your techwear are called "carriers" (virus, disease motive).
+## Social Presence
+
+**Instagram:** www.instagram.com/kannibalwear
+**Facebook:** www.facebook.com/kannibalwear
+**Twitter:** www.twitter.com/kannibalwear (doesn't exist yet)
+
+# PRODUCTS
 
 ## MODULAR CARRY SYSTEMS
 
@@ -24,7 +30,6 @@ People wearing your techwear are called "carriers" (virus, disease motive).
 
 8102-CMA - CMA • Cable Maintenance Array
 
-
 ## ICEBOX
 
 - Hoodie
@@ -40,3 +45,5 @@ People wearing your techwear are called "carriers" (virus, disease motive).
 - Patches
 - Stealthy Fashion Clothes
 - Accessories
+
+People wearing your techwear are called "carriers" (virus, disease motive).
