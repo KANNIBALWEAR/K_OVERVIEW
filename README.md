@@ -44,6 +44,9 @@
 
 ## ICEBOX
 
+- Combine any product below with molle webbing. For example: hoddies with molle slots for attachments.
+- Evo Attachment Extension - conversion kit to "kannibalize" other bags and items so they can be used as modular.
+
 - Hoodie
 - Windbreaker
 - Bags
