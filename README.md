@@ -6,7 +6,7 @@
 
 **Website:** helve.live/kannibal / kannibal.com / kannibalism.com / kannibal.tech
 
-**Instagram:** www.instagram.com/kannibalwear
+**Instagram:** www.instagram.com/kannibal
 
 **Facebook:** www.facebook.com/kannibalwear
 
