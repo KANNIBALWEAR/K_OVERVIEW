@@ -34,6 +34,11 @@
 
 8102-CMA - CMA • Cable Maintenance Array
 
+## NOTES ON PACKAGING
+
+- Transparent Foil Bags with Stickers (Aoku style)
+- Black Minimal Boxes with Printed Item Wraps (See through panel too?)
+
 ## ICEBOX
 
 - Hoodie
