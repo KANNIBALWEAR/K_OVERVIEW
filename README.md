@@ -38,6 +38,9 @@
 
 - Transparent Foil Bags with Stickers (Aoku style)
 - Black Minimal Boxes with Printed Item Wraps (See through panel too?)
+- Minor Equipment (ME) Bonus with every order
+- Personal Item with each order (hand-written or custom message)
+- Instruction Manual for every item included or via QR code leading to a Vimeo video
 
 ## ICEBOX
 
