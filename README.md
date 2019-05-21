@@ -46,6 +46,9 @@
 
 - Combine any product below with molle webbing. For example: hoddies with molle slots for attachments.
 - Evo Attachment Extension - conversion kit to "kannibalize" other bags and items so they can be used as modular.
+- Affector / Special Edition 
+like below wrapped in plastic at the top, velcro at the bottom (foiled, laminated but not fully, round the edges).
+_^^^^^^^^^^^^_
 
 - Hoodie
 - Windbreaker
