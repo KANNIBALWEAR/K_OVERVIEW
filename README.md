@@ -3,9 +3,9 @@
 # KANNIBAL (TECHWEAR R&D BRAND)
 ^correct the logo
 
-## Social Presence
+## SOCIAL PRESENCE_
 
-**Website:** helve.live/kannibal / kannibal.com / kannibalism.com / kannibal.tech
+**Website:** helve.live/kannibal / kannibal.com / kannibalism.com / kannibal.tech / kannibalwear.com
 
 **Instagram:** www.instagram.com/kannibal
 
@@ -13,9 +13,9 @@
 
 **Twitter:** www.twitter.com/kannibalwear (doesn't exist yet)
 
-# PRODUCTS
+# PRODUCTS_
 
-## MODULAR CARRY SYSTEMS
+## MODULAR CARRY SYSTEMS_
 
 - 8102-L - LEGWRAP • Leg Accessory
 
