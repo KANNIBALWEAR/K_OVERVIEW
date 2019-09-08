@@ -37,8 +37,9 @@
 
 ## NOTES ON PACKAGING
 
-- Transparent Foil Bags with Stickers (Aoku style)
-- Black Minimal Boxes with Printed Item Wraps (See through panel too?)
+- Transparent/Silver Foil Bags with Stickers (Aoku style)
+- Luxurious Feel of the Foil Poach (a special type of poach made from recycled plastic)
+- Black Minimal Boxes with Printed Item Wraps (See through panel too? Perhaps not)
 - Minor Equipment (ME) Bonus with every order
 - Personal Item with each order (hand-written or custom message with the brands tagline + QR code)
 - Instruction Manual for every item included or via QR code leading to a Vimeo video
