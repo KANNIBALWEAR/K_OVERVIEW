@@ -42,7 +42,7 @@
 - Black Minimal Boxes with Printed Item Wraps (See through panel too? Perhaps not)
 - Minor Equipment (ME) Bonus with every order
 - Personal Item with each order (hand-written or custom message with the brands tagline + QR code)
-- Instruction Manual for every item included or via QR code leading to a Vimeo video
+- Instruction Manual for every item included or via QR code leading to a Vimeo/YT/server video
 
 ## ICEBOX
 
