@@ -49,6 +49,8 @@
 - Evo Attachment Extension - conversion kit to "kannibalize" other bags and items so they can be used as modular.
 - Affector / Special Edition 
 like below wrapped in plastic at the top, velcro at the bottom (foiled, laminated but not fully, round the edges).
+
+It would look something like this:
 _^^^^^^^^^^^^_
 
 - orange reinforced paper bands with modern tags (PROTOTYPE / FPN 084-22-1838)
@@ -68,7 +70,6 @@ _^^^^^^^^^^^^_
 - Patches
 - Stealthy Fashion Clothes
 - Accessories
-
-
+- HERE WRITE IN ALL THE IDEAS COMING FROM MININOTES.
 
 People wearing your techwear are called "carriers" (virus, disease motive).
