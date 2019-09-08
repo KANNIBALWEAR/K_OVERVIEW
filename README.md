@@ -52,7 +52,7 @@ _^^^^^^^^^^^^_
 
 - orange reinforced paper bands with modern tags (PROTOTYPE / FPN 084-22-1838)
 
-![](assets/Screenshot 2019-09-08 at 18.27.58.png)
+![](assets/band.png)
 
 - Hoodie
 - Windbreaker
