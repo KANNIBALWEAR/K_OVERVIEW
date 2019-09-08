@@ -7,9 +7,9 @@
 
 ## SOCIAL PRESENCE_
 
-**Website:** helve.live/kannibal / kannibal.com / kannibalism.com / kannibal.tech / kannibalwear.com
+- **Website:** helve.live/kannibal / kannibal.com / kannibalism.com / kannibal.tech / kannibalwear.com
 
-**Instagram:** www.instagram.com/kannibal
+- **Instagram:** www.instagram.com/kannibal
 
 **Facebook:** www.facebook.com/kannibalwear
 
