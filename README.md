@@ -50,6 +50,9 @@
 like below wrapped in plastic at the top, velcro at the bottom (foiled, laminated but not fully, round the edges).
 _^^^^^^^^^^^^_
 
+- orange reinforced paper bands with modern tags (PROTOTYPE / FPN 084-22-1838)
+![]()
+
 - Hoodie
 - Windbreaker
 - Bags
@@ -63,5 +66,7 @@ _^^^^^^^^^^^^_
 - Patches
 - Stealthy Fashion Clothes
 - Accessories
+
+
 
 People wearing your techwear are called "carriers" (virus, disease motive).
