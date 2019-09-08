@@ -3,6 +3,8 @@
 # KANNIBAL (TECHWEAR R&D BRAND)
 ^correct the logo
 
+--> insert the descriptions
+
 ## SOCIAL PRESENCE_
 
 **Website:** helve.live/kannibal / kannibal.com / kannibalism.com / kannibal.tech / kannibalwear.com
