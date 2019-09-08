@@ -51,7 +51,7 @@ like below wrapped in plastic at the top, velcro at the bottom (foiled, laminate
 _^^^^^^^^^^^^_
 
 - orange reinforced paper bands with modern tags (PROTOTYPE / FPN 084-22-1838)
-![]()
+![](Screenshot 2019-09-08 at 18.27.58.png)
 
 - Hoodie
 - Windbreaker
