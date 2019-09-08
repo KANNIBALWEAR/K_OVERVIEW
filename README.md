@@ -7,7 +7,7 @@
 
 ## SOCIAL PRESENCE_
 
-- **Website:** helve.live/kannibal / kannibal.com / kannibalism.com / kannibal.tech / kannibalwear.com
+- **Website:** helve.live/kannibal / kannibal.com (taken) / kannibalism.com / kannibal.tech 50usd / kannibalwear.com
 
 - **Instagram:** www.instagram.com/kannibal
 
