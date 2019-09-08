@@ -70,6 +70,12 @@ _^^^^^^^^^^^^_
 - Patches
 - Stealthy Fashion Clothes
 - Accessories
+- 
+-
+-
+-
+-
+-
 - HERE WRITE IN ALL THE IDEAS COMING FROM MININOTES.
 
 People wearing your techwear are called "carriers" (virus, disease motive).
