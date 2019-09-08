@@ -11,9 +11,9 @@
 
 - **Instagram:** www.instagram.com/kannibal
 
-**Facebook:** www.facebook.com/kannibalwear
+- **Facebook:** www.facebook.com/kannibalwear
 
-**Twitter:** www.twitter.com/kannibalwear (doesn't exist yet)
+- **Twitter:** www.twitter.com/kannibalwear (doesn't exist yet)
 
 # PRODUCTS_
 
@@ -37,7 +37,7 @@
 
 8102-CMA - CMA • Cable Maintenance Array
 
-## NOTES ON PACKAGING
+## NOTES ON PACKAGING_
 
 - Transparent/Silver Foil Bags with Stickers (Aoku style)
 - Luxurious Feel of the Foil Poach (a special type of poach made from recycled plastic)
@@ -46,7 +46,7 @@
 - Personal Item with each order (hand-written or custom message with the brands tagline + QR code)
 - Instruction Manual for every item included or via QR code leading to a Vimeo/YT/server video
 
-## ICEBOX
+## ICEBOX_
 
 - Combine any product below with molle webbing. For example: hoddies with molle slots for attachments.
 - Evo Attachment Extension - conversion kit to "kannibalize" other bags and items so they can be used as modular.
