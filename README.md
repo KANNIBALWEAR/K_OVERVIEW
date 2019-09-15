@@ -41,7 +41,7 @@ Website: kannibal.tech
 
 - 8102-CMA [CMA] • Cable Maintenance Array
 
-- X 
+- 9102-CMA [CBS] • Cargo Bike System (Slim Edition)
 
 ## NOTES ON PACKAGING_
 
