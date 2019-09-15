@@ -86,5 +86,6 @@ _^^^^^^^^^^^^_
 -
 -
 - HERE WRITE IN ALL THE IDEAS COMING FROM MININOTES.
+- AND ATTACH CODENAMES TO THEM
 
 People wearing your techwear are called "carriers" (virus, disease motive).
