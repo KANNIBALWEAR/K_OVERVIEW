@@ -23,7 +23,7 @@ Website: kannibal.tech
 
 ## MODULAR CARRY SYSTEMS_
 
-- 8102-L - LEGWRAP • Leg Accessory
+- 8102-L [LEGWRAP] • Leg Accessory
 
 - 8102-SDC - SDC • Smart Device Carrier
 
