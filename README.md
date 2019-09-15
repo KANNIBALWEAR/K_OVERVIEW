@@ -87,5 +87,6 @@ _^^^^^^^^^^^^_
 -
 - HERE WRITE IN ALL THE IDEAS COMING FROM MININOTES.
 - AND ATTACH CODENAMES TO THEM
+- RESEARCH THE SLANG (AOKU HAS SOME GOOD EXAMPLES OF PROPER NAMING)
 
 People wearing your techwear are called "carriers" (virus, disease motive).
