@@ -39,7 +39,9 @@ Website: kannibal.tech
 
 ## HQ SYSTEMS
 
-8102-CMA - CMA • Cable Maintenance Array
+- 8102-CMA [CMA] • Cable Maintenance Array
+
+- X 
 
 ## NOTES ON PACKAGING_
 
