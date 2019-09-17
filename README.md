@@ -53,6 +53,7 @@ _^^^^^^^^^^^^_
 
 - orange reinforced paper bands with modern tags (PROTOTYPE / FPN 084-22-1838)
 - think more about the naming scheme
+- correct the logo
 
 ![](assets/band.png)
 
@@ -80,6 +81,3 @@ _^^^^^^^^^^^^_
 - RESEARCH THE SLANG (AOKU HAS SOME GOOD EXAMPLES OF PROPER NAMING)
 
 People wearing your techwear are called "carriers" (virus, disease motive).
-
-
-^correct the logo
