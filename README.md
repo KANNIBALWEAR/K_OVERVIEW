@@ -55,6 +55,9 @@ _^^^^^^^^^^^^_
 - think more about the naming scheme
 - correct the logo
 - clarify the goal from core drives
+- mission statement
+- material selection
+- Write down seasons.
 
 ![](assets/band.png)
 
