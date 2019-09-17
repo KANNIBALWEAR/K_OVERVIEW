@@ -11,11 +11,8 @@ Website: kannibal.tech
 ## SOCIAL PRESENCE_
 
 - **Website:** helve.live/kannibal / kannibal.com (taken) / kannibalism.com / kannibal.tech 50usd / kannibalwear.com
-
 - **Instagram:** www.instagram.com/kannibal
-
 - **Facebook:** www.facebook.com/kannibalwear
-
 - **Twitter:** www.twitter.com/kannibalwear (doesn't exist yet)
 
 # PRODUCTS_
@@ -27,7 +24,6 @@ Website: kannibal.tech
 - 8102-R [ROLLOUT] • Rollup Tool Poach
 - 8102-T [TAGGER] • Stealth Grafitti Foldable
 - 8102-S [SNAPPER] • In-Sleeve Wrist Device Holder
-
 - 8102-B [BARREL] • Modular Attachment Belt
 
 - 9102-A [AFFECTOR VOL. I] • Modular Velcro Patch Group
