@@ -1,8 +1,9 @@
 ![](assets/kannibal-banner.png)
 
-# KANNIBAL (TECHWEAR R&D BRAND)
+# KANNIBAL (STEALTH TECHWEAR R&D BRAND)
 
 Stealth #techwear accessories — 𝘍𝘶𝘵𝘶𝘳𝘦 𝘵𝘰 𝘵𝘩𝘰𝘴𝘦 𝘸𝘩𝘰 𝘱𝘳𝘦𝘱𝘢𝘳𝘦 𝘧𝘰𝘳 𝘪𝘵. 𝘞𝘩𝘢𝘵𝘦𝘷𝘦𝘳 𝘪𝘵 𝘵𝘢𝘬𝘦𝘴.
+
 Website: kannibal.tech
 
 ^correct the logo
