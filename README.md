@@ -6,8 +6,6 @@ Stealth #techwear accessories — 𝘍𝘶𝘵𝘶𝘳𝘦 𝘵𝘰 𝘵𝘩𝘰
 
 Website: kannibal.tech
 
-^correct the logo
-
 --> insert the descriptions
 
 ## SOCIAL PRESENCE_
@@ -93,3 +91,6 @@ _^^^^^^^^^^^^_
 - RESEARCH THE SLANG (AOKU HAS SOME GOOD EXAMPLES OF PROPER NAMING)
 
 People wearing your techwear are called "carriers" (virus, disease motive).
+
+
+^correct the logo
