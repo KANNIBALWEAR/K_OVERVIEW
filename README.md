@@ -25,13 +25,11 @@ Website: kannibal.tech
 - 8102-T [TAGGER] • Stealth Grafitti Foldable
 - 8102-S [SNAPPER] • In-Sleeve Wrist Device Holder
 - 8102-B [BARREL] • Modular Attachment Belt
-
 - 9102-A [AFFECTOR VOL. I] • Modular Velcro Patch Group
 
 ## HQ SYSTEMS
 
 - 8102-CMA [CMA] • Cable Maintenance Array
-
 - 9102-CMA [CBS] • Cargo Bike System (Slim Edition)
 
 ## NOTES ON PACKAGING_
@@ -54,7 +52,6 @@ It would look something like this:
 _^^^^^^^^^^^^_
 
 - orange reinforced paper bands with modern tags (PROTOTYPE / FPN 084-22-1838)
-
 - think more about the naming scheme
 
 ![](assets/band.png)
