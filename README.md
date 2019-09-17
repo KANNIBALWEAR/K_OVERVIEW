@@ -54,6 +54,7 @@ _^^^^^^^^^^^^_
 - orange reinforced paper bands with modern tags (PROTOTYPE / FPN 084-22-1838)
 - think more about the naming scheme
 - correct the logo
+- clarify the goal from core drives
 
 ![](assets/band.png)
 
