@@ -76,9 +76,9 @@ _^^^^^^^^^^^^_
 - Patches
 - Stealthy Fashion Clothes
 - Accessories
-- 
--
--
+- Concealment Systems
+- Zipping Systems
+- Carry Systems
 -
 -
 -
