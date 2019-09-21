@@ -20,7 +20,6 @@ Website: kannibal.tech
 # PRODUCTS_
 
 ## MODULAR CARRY SYSTEMS_
-
 - 8102-L [LEGWRAP] • Leg Accessory
 - 8102-SDC [SDC] • Smart Device Carrier
 - 8102-R [ROLLOUT] • Rollup Tool Poach
