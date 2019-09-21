@@ -31,7 +31,6 @@ Website: kannibal.tech
 - 9102-CBF [CBF] • Cargo Bike Frame (Slim Edition) - repo has been created: check!
 
 ## NOTES ON PACKAGING_
-
 - Transparent/Silver Foil Bags with Stickers (Aoku style)
 - Luxurious Feel of the Foil Poach (a special type of poach made from recycled plastic)
 - Black Minimal Boxes with Printed Item Wraps (See through panel too? Perhaps not)
