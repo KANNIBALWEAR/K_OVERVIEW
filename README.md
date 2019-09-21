@@ -32,7 +32,7 @@ Website: kannibal.tech
 ## HQ SYSTEMS
 
 - 8102-CMA [CMA] • Cable Maintenance Array
-- 9102-CBF [CBF] • Cargo Bike Frame (Slim Edition)
+- 9102-CBF [CBF] • Cargo Bike Frame (Slim Edition) - repo has been created: check!
 
 ## NOTES ON PACKAGING_
 
