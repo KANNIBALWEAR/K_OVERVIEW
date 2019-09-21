@@ -17,7 +17,6 @@ Website: kannibal.tech
 - **Twitter:** www.twitter.com/kannibalwear (doesn't exist yet)
 
 # PRODUCTS_
-
 ## MODULAR CARRY SYSTEMS_
 - 8102-L [LEGWRAP] • Leg Accessory
 - 8102-SDC [SDC] • Smart Device Carrier
@@ -28,7 +27,6 @@ Website: kannibal.tech
 - 9102-A [AFFECTOR VOL. I] • Modular Velcro Patch Group
 
 ## HQ SYSTEMS
-
 - 8102-CMA [CMA] • Cable Maintenance Array
 - 9102-CBF [CBF] • Cargo Bike Frame (Slim Edition) - repo has been created: check!
 
