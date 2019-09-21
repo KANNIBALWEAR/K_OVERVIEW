@@ -10,7 +10,6 @@ Website: kannibal.tech
 --> insert the descriptions
 
 ## SOCIAL PRESENCE_
-
 - **Website:** helve.live/kannibal / kannibal.com (taken) / kannibalism.com / kannibal.tech 50usd / kannibalwear.com
 - **Instagram:** www.instagram.com/kannibal
 - **Facebook:** www.facebook.com/kannibalwear
