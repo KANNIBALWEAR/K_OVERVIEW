@@ -32,7 +32,7 @@ Website: kannibal.tech
 ## HQ SYSTEMS
 
 - 8102-CMA [CMA] • Cable Maintenance Array
-- 9102-CMA [CBS] • Cargo Bike System (Slim Edition)
+- 9102-CBS [CBS] • Cargo Bike System (Slim Edition)
 
 ## NOTES ON PACKAGING_
 
