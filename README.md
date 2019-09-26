@@ -85,7 +85,7 @@ _^^^^^^^^^^^^_
 - Concealment Systems
 - Zipping Systems
 - Carry Systems
--
+- 5G Shield Clothing
 -
 -
 - HERE WRITE IN ALL THE IDEAS COMING FROM MININOTES.
