@@ -97,7 +97,7 @@ _^^^^^^^^^^^^_
 - Zipping Systems
 - Carry Systems
 - 5G Shield Clothing
--
+- T-shirt based on the idea of "Control the dopamine and you control the world"
 -
 - HERE WRITE IN ALL THE IDEAS COMING FROM MININOTES.
 - AND ATTACH CODENAMES TO THEM
