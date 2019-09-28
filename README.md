@@ -12,26 +12,16 @@ Website: kannibal.tech
 Naming:
 - Stealth Techwear Objects?
 - Stealth Techwear Accessories?
-
-Stealth Techwear Items?
-
-Stealth Techwear Gear?
-
-Stealth Techwear Carry?
-
-Stealth Techwear Injections?
-
-Stealth Techwear x
-
-Stealth Techwear x
-
-Stealth Techwear x
-
-Stealth Techwear x
-
-Stealth Techwear x
-
-Stealth Techwear x
+- Stealth Techwear Items?
+- Stealth Techwear Gear?
+- Stealth Techwear Carry?
+- Stealth Techwear Injections?
+- Stealth Techwear x
+- Stealth Techwear x
+- Stealth Techwear x
+- Stealth Techwear x
+- Stealth Techwear x
+- Stealth Techwear x
 
 ## SOCIAL PRESENCE_
 - **Website:** helve.live/kannibal / kannibal.com (taken) / kannibalism.com / kannibal.tech 50usd / kannibalwear.com
