@@ -98,7 +98,7 @@ _^^^^^^^^^^^^_
 - Carry Systems
 - 5G Shield Clothing
 - T-shirt based on the idea of "Control the dopamine and you control the world"
-"cult of dopamine"
+"cult of dopamine", "dopmaine cultist"
 -
 - HERE WRITE IN ALL THE IDEAS COMING FROM MININOTES.
 - AND ATTACH CODENAMES TO THEM
