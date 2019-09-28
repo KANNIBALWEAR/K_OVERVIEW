@@ -5,9 +5,13 @@
 # KANNIBAL / STEALTH TECHWEAR R&D BRAND
 Stealth #techwear accessories — 𝘍𝘶𝘵𝘶𝘳𝘦 𝘵𝘰 𝘵𝘩𝘰𝘴𝘦 𝘸𝘩𝘰 𝘱𝘳𝘦𝘱𝘢𝘳𝘦 𝘧𝘰𝘳 𝘪𝘵. 𝘞𝘩𝘢𝘵𝘦𝘷𝘦𝘳 𝘪𝘵 𝘵𝘢𝘬𝘦𝘴.
 
-Stealth Techwear Objects?
+Website: kannibal.tech
 
-Stealth Techwear Accessories?
+--> insert the descriptions
+
+Naming:
+- Stealth Techwear Objects?
+- Stealth Techwear Accessories?
 
 Stealth Techwear Items?
 
@@ -28,10 +32,6 @@ Stealth Techwear x
 Stealth Techwear x
 
 Stealth Techwear x
-
-Website: kannibal.tech
-
---> insert the descriptions
 
 ## SOCIAL PRESENCE_
 - **Website:** helve.live/kannibal / kannibal.com (taken) / kannibalism.com / kannibal.tech 50usd / kannibalwear.com
