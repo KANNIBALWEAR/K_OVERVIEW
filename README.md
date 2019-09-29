@@ -30,6 +30,10 @@ Naming:
 - **Twitter:** www.twitter.com/kannibalwear (doesn't exist yet)
 
 # PRODUCTS_
+
+## EARLY PROTOTYPES_ ZEROSUM ELEMENTS
+- Basic Hitech Crime Patches 76x50mm (?), white sewn on black, velcro on the back.
+
 ## MODULAR CARRY SYSTEMS_
 - 8102-L [LEGWRAP] • Leg Accessory
 - 8102-SDC [SDC] • Smart Device Carrier
