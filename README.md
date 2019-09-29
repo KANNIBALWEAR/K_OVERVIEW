@@ -31,7 +31,7 @@ Naming:
 
 # PRODUCTS_
 
-## EARLY PROTOTYPES_ ZEROSUM ELEMENTS
+## EARLY PROTOTYPES_ [ZEROSUM ELEMENTS]
 - Basic Hitech Crime Patches 76x50mm (?), white sewn on black, velcro on the back.
 
 ## MODULAR CARRY SYSTEMS_
