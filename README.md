@@ -30,6 +30,7 @@ Website: kannibal.tech
 ## KANNIBAL SEASONS_
 
 - RAW00_Season
+- FS01_Season
 
 # PRODUCTS_
 
