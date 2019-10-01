@@ -29,7 +29,7 @@ Website: kannibal.tech
 
 ## KANNIBAL SEASONS_
 
-- 2020 / Raw Initiation - Kannibal Wear Season / 00RAW / 00RAW_Season https://github.com/KANNIBALWEAR/00RAW_Season
+- 2020 / Raw Initiation - Kannibal Wear Season / 00RAW / [00RAW_Season](https://github.com/KANNIBALWEAR/00RAW_Season)
 - 2021 / First Swipe - Kannibal Wear Season / 01FS / 01FS_Season https://github.com/KANNIBALWEAR/01FS_Season
 - 2022 / Independent Strain - Kannibal Wear Season / 02IS / 02IS_Season https://github.com/KANNIBALWEAR/02IS_Season
 - 2023 / Tactical Haptics - Kannibal Wear Season / 03TH / 03TH_Season https://github.com/KANNIBALWEAR/03TH_Season
