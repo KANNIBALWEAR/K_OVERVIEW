@@ -31,6 +31,7 @@ Website: kannibal.tech
 
 - RAW00_Season
 - FS01_Season
+- IS_Season
 
 # PRODUCTS_
 
