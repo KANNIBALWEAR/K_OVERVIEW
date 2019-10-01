@@ -27,6 +27,10 @@ Website: kannibal.tech
 - **Facebook:** www.facebook.com/kannibalwear
 - **Twitter:** www.twitter.com/kannibalwear (doesn't exist yet)
 
+## KANNIBAL SEASONS_
+
+- RAW00_Season
+
 # PRODUCTS_
 
 ## EARLY PROTOTYPES_ [ZEROSUM ELEMENTS] [KANNIBAL / RAW SEASON]
