@@ -31,9 +31,9 @@ Website: kannibal.tech
 
 - 2020 / 00RAW / RAW00_Season
 - 2021 / 01FS  / 01FS_Season
-- IS_Season
-- TH_Season
-- EID_Season
+- 02IS_Season
+- 03TH_Season
+- 04EID_Season
 
 # PRODUCTS_
 
