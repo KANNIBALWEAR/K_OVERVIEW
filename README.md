@@ -26,6 +26,7 @@ Website: kannibal.tech
 - **Instagram:** www.instagram.com/kannibal
 - **Facebook:** www.facebook.com/kannibalwear
 - **Twitter:** www.twitter.com/kannibalwear (doesn't exist yet)
+- **YouTube:** www.youtube.com/rhizomacy (triptych channel)
 
 ## KANNIBAL SEASONS_
 
