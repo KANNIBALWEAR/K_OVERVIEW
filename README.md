@@ -29,10 +29,11 @@ Website: kannibal.tech
 
 ## KANNIBAL SEASONS_
 
-- RAW00_Season
+- 2020 / RAW00_Season
 - FS01_Season
 - IS_Season
 - TH_Season
+- EID_Season
 
 # PRODUCTS_
 
