@@ -29,8 +29,8 @@ Website: kannibal.tech
 
 ## KANNIBAL SEASONS_
 
-- 2020 / RAW00_Season
-- FS01_Season
+- 2020 / 00RAW / RAW00_Season
+- 2021 / 01FS  / 01FS_Season
 - IS_Season
 - TH_Season
 - EID_Season
