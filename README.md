@@ -29,11 +29,11 @@ Website: kannibal.tech
 
 ## KANNIBAL SEASONS_
 
-- 2020 / 00RAW / 00RAW_Season
-- 2021 / 01FS  / 01FS_Season
-- 2022 / 02IS  / 02IS_Season
-- 2023 / 03TH  / 03TH_Season
-- 2024 / 04EID / 04EID_Season
+- 2020 / 00RAW / 00RAW_Season https://github.com/KANNIBALWEAR/00RAW_Season
+- 2021 / 01FS  / 01FS_Season https://github.com/KANNIBALWEAR/01FS_Season
+- 2022 / 02IS  / 02IS_Season https://github.com/KANNIBALWEAR/02IS_Season
+- 2023 / 03TH  / 03TH_Season https://github.com/KANNIBALWEAR/03TH_Season
+- 2024 / 04EID / 04EID_Season https://github.com/KANNIBALWEAR/04EID_Season
 
 # PRODUCTS_
 
