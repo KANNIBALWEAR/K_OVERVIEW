@@ -106,3 +106,24 @@ _^^^^^^^^^^^^_
 - RESEARCH THE SLANG (AOKU HAS SOME GOOD EXAMPLES OF PROPER NAMING)
 
 People wearing your techwear are called "carriers" (virus, disease motive).
+
+
+'First, start with the jacket. All great techwear outfits are built on outerwear, full stop. As a general rule, the best tech jackets are waterproof, durable, and designed for movement, ideally wrapped in a neutral color. In general, err towards GORE-TEX fabrics and zippers in key areas.
+
+Second, build functional layers. The best tech jacket is only as good as what’s underneath. Our recommendation: go for a slouchy extended tee under a warm mid-layer, ideally a goose down jacket or high-tech fleece. In the outdoors industry, this is referred to as the “base-mid-shell” system.
+
+This three-layer design ensures rapid adaptability both inside and out.
+
+Next, do the details. The difference between “technical athleisure” and true techwear rests in high-function features like hidden vents, specialized pockets, and taped seams. In many ways, these tech details differentiate techwear from scaled-down looks like athleisure or sportswear.
+
+Just look at a pair of Guerilla Group pants vs. your athleisure cargoes from H&M: both are black, tapered, and heavy on pockets, but only one drips the sort of utility features (articulated joints, intersecting seams, water-repellant coating) that mark it “techwear.”
+
+Finally, focus on footwear. Even with space-age layers and every detail in line, the wrong shoes can throw off your vibe entirely. As a general rule, choose sneakers either made of cutting-edge materials (Flyknit, Primeknit, neoprene, etc.) or have visible “tech” features that supplant their more humble construction (ex. a leather sneaker with a zipper entry)."
+
+1. Technical hardshell. The cornerstone of all techwear outfits. The right hardshell jacket will keep you dry through 3 hours of winter precipitation and even stay breathable during activity. Try getting that from a peacoat.
+
+2. Performance mid-layer. Most technical shells lack insulation by design, leaving the warmth factor up to a user’s individual needs. Layer a performance mid-layer under your jacket for the ultimate in customized insulation.
+
+3. Extended tee. Fashion, function, and lightweight style. The base layer that cover all your bases.
+
+4. 
