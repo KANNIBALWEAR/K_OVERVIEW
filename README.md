@@ -77,7 +77,7 @@ _^^^^^^^^^^^^_
 - clarify the goal from core drives
 - mission statement
 - material selection
-- Write down seasons.
+- Greyman Techwear -  “grey man,” a security business term for an agent dressed to blend in but equipped to do anything but
 
 ![](assets/band.png)
 
