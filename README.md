@@ -126,4 +126,8 @@ Finally, focus on footwear. Even with space-age layers and every detail in line,
 
 3. Extended tee. Fashion, function, and lightweight style. The base layer that cover all your bases.
 
-4. 
+4. Weather-ready backpack. Built for a high-mobility urban lifestyle. Bring everything you need with you without frying your laptop when it rains. Even better, do it in style.
+
+5. State-of-the-art sneakers. Athletic shoes have long pushed the envelope for performance design. While some sneakers are content to push, others choose to shove. 
+
+6. Techwear pants. One of the only styles of fashion where cargo pants are king."
