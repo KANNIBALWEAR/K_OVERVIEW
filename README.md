@@ -70,6 +70,7 @@ Website: kannibal.tech
  3. Exclusive partner offers (discounts for alliance brands)
  4. Free worldwide access to new narratives
  5. Personalize your experience.
+ 6. Access to "Clothes Cannibalization Course" - tip and tricks for your gear.
 
 ![](kannibal-packaging-inspiration.png)
 
