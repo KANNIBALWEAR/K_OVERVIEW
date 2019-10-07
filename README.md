@@ -66,6 +66,10 @@ Website: kannibal.tech
 
 - High Class Vibe - plastic membership card (later on access to membership shows, exclusive things for card holders. Perhaps people who have it have a monthly allowance, discounts etc).
  1. Metal Card of your choice.
+ 2. Dedicated chat support whenever you need it.
+ 3. Exclusive partner offers (discounts for alliance brands)
+ 4. Free worldwide access to new narratives
+ 5. Personalize your experience.
 
 ![](kannibal-packaging-inspiration.png)
 
