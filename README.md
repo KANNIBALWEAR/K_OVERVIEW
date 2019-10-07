@@ -62,11 +62,15 @@ Website: kannibal.tech
 - Personal Item with each order (hand-written or custom message with the brands tagline + QR code)
 - Instruction Manual for every item included or via QR code leading to a Vimeo/YT/server video
 
-- High Class Vibe - plastic membership card (later on access to membership shows, exclusive things for card holders. Perhaps people who have it have a monthly allowance, discounts etc).
-
 ![](177FA400-0BAD-464E-A799-DF3E19A3D17E.JPG)
 
+- High Class Vibe - plastic membership card (later on access to membership shows, exclusive things for card holders. Perhaps people who have it have a monthly allowance, discounts etc).
+ 1. Metal Card of your choice.
+
 ![](kannibal-packaging-inspiration.png)
+
+
+
 
 ## ICEBOX_
 - Combine any product below with molle webbing. For example: hoddies with molle slots for attachments.
