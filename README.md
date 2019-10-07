@@ -62,7 +62,7 @@ Website: kannibal.tech
 - Personal Item with each order (hand-written or custom message with the brands tagline + QR code)
 - Instruction Manual for every item included or via QR code leading to a Vimeo/YT/server video
 
-- Prime Vibe - plastic membership card (later on access to membership shows, exclusive things for card holders. Perhaps people who have it have a monthly allowance, discounts etc).
+- High Class Vibe - plastic membership card (later on access to membership shows, exclusive things for card holders. Perhaps people who have it have a monthly allowance, discounts etc).
 ![](kannibal-packaging-inspiration.png)
 
 ## ICEBOX_
