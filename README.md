@@ -63,6 +63,9 @@ Website: kannibal.tech
 - Instruction Manual for every item included or via QR code leading to a Vimeo/YT/server video
 
 - High Class Vibe - plastic membership card (later on access to membership shows, exclusive things for card holders. Perhaps people who have it have a monthly allowance, discounts etc).
+
+![](177FA400-0BAD-464E-A799-DF3E19A3D17E.JPG)
+
 ![](kannibal-packaging-inspiration.png)
 
 ## ICEBOX_
