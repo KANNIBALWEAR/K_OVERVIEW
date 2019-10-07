@@ -62,6 +62,8 @@ Website: kannibal.tech
 - Personal Item with each order (hand-written or custom message with the brands tagline + QR code)
 - Instruction Manual for every item included or via QR code leading to a Vimeo/YT/server video
 
+![](kannibal-packaging-inspiration.png)
+
 ## ICEBOX_
 - Combine any product below with molle webbing. For example: hoddies with molle slots for attachments.
 - Evo Attachment Extension - conversion kit to "kannibalize" other bags and items so they can be used as modular.
