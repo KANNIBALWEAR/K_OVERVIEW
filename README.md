@@ -29,6 +29,7 @@ Website: kannibal.tech ? kannibal.is ?
 - **YouTube:** www.youtube.com/rhizomacy (triptych channel)
 
 ## KANNIBAL SEASONS_
+CURRENT SEASON_ 00RAW
 
 - 2020 / [00RAW_Season](https://github.com/KANNIBALWEAR/00RAW_Season) / 00RAW / Raw Initiation - Kannibal Wear Season 
 - 2021 / [01FS_Season](https://github.com/KANNIBALWEAR/01FS_Season) / 01FS / First Swipe - Kannibal Wear Season 
