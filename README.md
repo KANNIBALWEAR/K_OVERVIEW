@@ -8,7 +8,7 @@ Stealth #techwear clothing & accessories — 𝘍𝘶𝘵𝘶𝘳𝘦 𝘵𝘰 �
 Website: kannibal.tech ? kannibal.is ?
 
 **Naming:**
-- Stealth Techwear Objects?
+- Stealth Techwear Objects
 - Stealth Techwear Accessories <
 - Stealth Techwear Items?
 - Stealth Techwear Gear <
