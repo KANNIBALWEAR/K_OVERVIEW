@@ -10,7 +10,7 @@ Website: kannibal.tech ? kannibal.is ?
 **Naming:**
 - Stealth Techwear Objects
 - Stealth Techwear Accessories <
-- Stealth Techwear Items?
+- Stealth Techwear Items
 - Stealth Techwear Gear <
 - Stealth Techwear Carry <
 - Stealth Techwear Injections
