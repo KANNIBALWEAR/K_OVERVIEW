@@ -99,6 +99,11 @@ _^^^^^^^^^^^^_
 
 ![](assets/band.png)
 
+![](IMG_7656.PNG)
+![](IMG_7657.PNG)
+![](IMG_7659.PNG)
+![](IMG_7660.PNG)
+
 - Hoodie
 - Windbreaker
 - Bags
