@@ -130,7 +130,6 @@ _^^^^^^^^^^^^_
 
 People wearing your techwear are called "carriers" (virus, disease motive).
 
-
 'First, start with the jacket. All great techwear outfits are built on outerwear, full stop. As a general rule, the best tech jackets are waterproof, durable, and designed for movement, ideally wrapped in a neutral color. In general, err towards GORE-TEX fabrics and zippers in key areas.
 
 Second, build functional layers. The best tech jacket is only as good as what’s underneath. Our recommendation: go for a slouchy extended tee under a warm mid-layer, ideally a goose down jacket or high-tech fleece. In the outdoors industry, this is referred to as the “base-mid-shell” system.
