@@ -21,7 +21,7 @@ Website: kannibal.tech ? kannibal.is ? kannibalwear.com ? kannibalist <nope
 - Stealth Techwear x
 - Stealth Techwear x
 
-carriers / injections / modders / techwear modding
+community: carriers / injections / modders / techwear modding
 
 ## SOCIAL PRESENCE_
 - **Website:** helve.live/kannibal / kannibal.com (taken) / kannibalism.com / kannibal.tech 50usd / kannibalwear.com
