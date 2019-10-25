@@ -62,6 +62,8 @@ CURRENT SEASON_ 00RAW
 - Personal Item with each order (hand-written or custom message with the brands tagline + QR code)
 - Instruction Manual for every item included or via QR code leading to a Vimeo/YT/server video
 
+- more minimal packaging like Guerilla Group? https://www.guerrilla-group.co/collections/creative-co-op/products/19s-es-ag01
+
 ![](177FA400-0BAD-464E-A799-DF3E19A3D17E.JPG)
 
 - High Class Vibe - plastic membership card (later on access to membership shows, exclusive things for card holders. Perhaps people who have it have a monthly allowance, discounts etc).
