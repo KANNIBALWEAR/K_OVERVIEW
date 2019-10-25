@@ -13,7 +13,7 @@ Stealth #techwear clothing & accessories — 𝘍𝘶𝘵𝘶𝘳𝘦 𝘵𝘰 �
 - Stealth Techwear Items
 - Stealth Techwear Gear <
 - Stealth Techwear Carry <
-- Stealth Techwear Injections <
+- Stealth Techwear Injections (nope, this relates to Hitech Crime injections)
 - Stealth Techwear x
 - Stealth Techwear x
 - Stealth Techwear x
