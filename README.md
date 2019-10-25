@@ -13,7 +13,7 @@ Website: kannibal.tech ? kannibal.is ? kannibalwear.com ? kannibalist <nope
 - Stealth Techwear Items
 - Stealth Techwear Gear <
 - Stealth Techwear Carry <
-- Stealth Techwear Injections
+- Stealth Techwear Injections <
 - Stealth Techwear x
 - Stealth Techwear x
 - Stealth Techwear x
