@@ -30,6 +30,8 @@ community: carriers / injections / modders / techwear modding
 - **Twitter:** www.twitter.com/kannibalwear (doesn't exist yet)
 - **YouTube:** www.youtube.com/rhizomacy (triptych channel)
 
+# SEASON GRID
+
 ## KANNIBAL SEASONS_
 CURRENT SEASON_ 00RAW
 
