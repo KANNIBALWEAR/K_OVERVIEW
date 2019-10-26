@@ -7,6 +7,7 @@ Stealth #techwear clothing & accessories — 𝘍𝘶𝘵𝘶𝘳𝘦 𝘵𝘰 �
 
 > Website: kannibal.tech ? kannibal.is ? kannibalwear.com ? kannibalist <nope
 
+
 **Naming:**
 
 - Stealth Techwear Objects, Accessories <, Items, Gear <, Carry <, Injections (nope, this relates to Hitech Crime injections)
