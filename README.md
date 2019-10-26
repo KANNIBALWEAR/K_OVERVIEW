@@ -46,6 +46,7 @@ CURRENT SEASON_ 00RAW
 - 2022 / [02IS_Season](https://github.com/KANNIBALWEAR/02IS_Season) / 02IS / Independent Strain - Kannibal Wear Season 
 
 - 2023 / [03TH_Season](https://github.com/KANNIBALWEAR/03TH_Season) / 03TH /Tactical Haptics - Kannibal Wear Season 
+
 - 2024 / [04EID_Season](https://github.com/KANNIBALWEAR/04EID_Season) / 04EID / Everything Into Dust - Kannibal Wear Season  
 
 # PRODUCTS_
