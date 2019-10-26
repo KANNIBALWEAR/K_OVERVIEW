@@ -151,6 +151,7 @@ _^^^^^^^^^^^^_
 "cult of dopamine", "dopmaine cultist", "church of dopamine", "children of dopamine" + chem symbol?
 -
 - HERE WRITE IN ALL THE IDEAS COMING FROM MININOTES.
+
 - AND ATTACH CODENAMES TO THEM
 - RESEARCH THE SLANG (AOKU HAS SOME GOOD EXAMPLES OF PROPER NAMING)
 
