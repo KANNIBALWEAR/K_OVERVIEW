@@ -40,6 +40,7 @@ community: carriers / injections / modders / techwear modding
 CURRENT SEASON_ 00RAW
 
 - 2020 / [00RAW_Season](https://github.com/KANNIBALWEAR/00RAW_Season) / 00RAW / Raw Initiation - Kannibal Wear Season 
+
 - 2021 / [01FS_Season](https://github.com/KANNIBALWEAR/01FS_Season) / 01FS / First Swipe - Kannibal Wear Season 
 - 2022 / [02IS_Season](https://github.com/KANNIBALWEAR/02IS_Season) / 02IS / Independent Strain - Kannibal Wear Season 
 - 2023 / [03TH_Season](https://github.com/KANNIBALWEAR/03TH_Season) / 03TH /Tactical Haptics - Kannibal Wear Season 
