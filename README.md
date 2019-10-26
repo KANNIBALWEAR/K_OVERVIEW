@@ -23,7 +23,9 @@ community: carriers / injections / modders / techwear modding
 - ship a product with hidden pendrive sewn in -  vital narrative info for an augmented reality narrative.
 
 ## SOCIAL PRESENCE_
+
 - **Website:** helve.live/kannibal / kannibal.com (taken) / kannibalism.com / kannibal.tech 50usd / kannibalwear.com
+
 - **Instagram:** www.instagram.com/kannibal
 - **Facebook:** www.facebook.com/kannibalwear
 - **Twitter:** www.twitter.com/kannibalwear (doesn't exist yet)
