@@ -157,7 +157,7 @@ _^^^^^^^^^^^^_
 
 - RESEARCH THE SLANG (AOKU HAS SOME GOOD EXAMPLES OF PROPER NAMING)
 
-- grey ops vs black ops techwear
+- grey ops vs black ops techwear <<<<
 
 People wearing your techwear are called "carriers" (virus, disease motive).
 
