@@ -27,6 +27,7 @@ community: carriers / injections / modders / techwear modding
 - **Website:** helve.live/kannibal / kannibal.com (taken) / kannibalism.com / kannibal.tech 50usd / kannibalwear.com
 
 - **Instagram:** www.instagram.com/kannibal
+
 - **Facebook:** www.facebook.com/kannibalwear
 - **Twitter:** www.twitter.com/kannibalwear (doesn't exist yet)
 - **YouTube:** www.youtube.com/rhizomacy (triptych channel)
