@@ -17,7 +17,6 @@ community: carriers / injections / modders / techwear modding
 - examples of good brand narrative combined with art projects - Guerilla Group.
 
 - items sale is also a ticket to an event - https://www.guerrilla-group.co/collections/new-releases/products/os-vi-02
-
 - event page https://www.guerrilla-group.co/pages/os-vi-file01
 
 - showcase the product, product worn, packaging (since it is part of the product), additional info - tie-ins with the story.
