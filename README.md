@@ -102,6 +102,11 @@ CURRENT SEASON_ 00RAW
 
 - Interactive Arts x Fashion x Filmmaking - https://www.guerrilla-group.co/pages/os-vi-file01-endless-rain-artists-bio
 
+![](guerilla-group1.png)
+![](guerilla-group2.png)
+![](guerilla-group3.png)
+![](guerilla-group4.png)
+
 - Various Tiers of gear (Tier I, Tier II, Tier III) like Eve Online ;)
 
       TIER I
