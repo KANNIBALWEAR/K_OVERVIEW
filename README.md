@@ -99,6 +99,9 @@ CURRENT SEASON_ 00RAW
 ![](kannibal-packaging-inspiration.png)
 
 ## ICEBOX_
+
+- Arts x Fashion x Filmmaking - https://www.guerrilla-group.co/pages/os-vi-file01-endless-rain-artists-bio
+
 - Various Tiers of gear (Tier I, Tier II, Tier III) like Eve Online ;)
 
       TIER I
