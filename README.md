@@ -22,6 +22,8 @@ community: carriers / injections / modders / techwear modding
 
 - ship a product with hidden pendrive sewn in -  vital narrative info for an augmented reality narrative.
 
+- Website should include lifestyle guide (orientation book for techwear but set in a ficticious universe) Example: https://aesthetichomage.com/pages/style-guide-techwear-bible
+
 ## SOCIAL PRESENCE_
 
 - **Website:** helve.live/kannibal / kannibal.com (taken) / kannibalism.com / kannibal.tech 50usd / kannibalwear.com
