@@ -7,6 +7,10 @@ Stealth #techwear clothing & accessories — 𝘍𝘶𝘵𝘶𝘳𝘦 𝘵𝘰 �
 
 > Website: kannibal.tech ? kannibal.is ? kannibalwear.com ? kannibalist <nope
 
+Ways to stand out in an oversaturated clothing brand market:
+- innovate your product
+- innovate your communication
+
 **Naming:**
 
 - Stealth Techwear Objects, Accessories <, Items, Gear <, Carry <, Injections (nope, this relates to Hitech Crime injections)
