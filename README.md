@@ -147,7 +147,7 @@ _^^^^^^^^^^^^_
 ![](IMG_7660.PNG)
 
 - Photon Tattoos from Hitech Crime Universe (temporary tattoo symbol -//-) (glow in the dark?)
-- 
+- Photon Tattoo: Hitech Crime Logo 
 - Hoodie
 - Windbreaker
 - Bags
