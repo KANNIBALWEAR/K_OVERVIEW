@@ -40,6 +40,13 @@ community: carriers / injections / modders / techwear modding
 
 - **YouTube:** www.youtube.com/rhizomacy (triptych channel)
 
+# VISUAL NARRATIVE MEMETIC CARRIER COLLABORATORS
+
+- aokuco / Daniel - Czech Republic
+- reach out to Hugh Errolson of Acronym for a potential collab once the brand established a proper narrative
+- my techwear fam from Poznan (input profiles here)
+- toughcasess / Roksana Kulik (model/actor)
+
 # SEASON GRID
 
 ## KANNIBAL SEASONS_
