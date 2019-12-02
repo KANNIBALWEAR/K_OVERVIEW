@@ -45,7 +45,7 @@ community: carriers / injections / modders / techwear modding
 - aokuco / Daniel - Czech Republic
 - reach out to Hugh Errolson of Acronym for a potential collab once the brand established a proper narrative
 - my techwear fam from Poznan (input profiles here)
-- toughcasess / Roksana Kulik (model/actor)
+- toughcasess / Roksana Kulik (model/actor) - Sulechów/Zielona Góra
 
 # SEASON GRID
 
