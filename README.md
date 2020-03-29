@@ -163,6 +163,10 @@ _^^^^^^^^^^^^_
 - T-shirts
 - Shoes
 - Mask
+![](hc-mask1.jpg)
+![](hc-mask2.jpg)
+
+
 - Holster
 - Hat
 - Stickers
