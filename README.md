@@ -163,6 +163,11 @@ _^^^^^^^^^^^^_
 - T-shirts
 - Shoes
 - Mask
+
+Cristal_mask maski antysmogowe custom nadruk sitodruk lub sublimacja min 10 
+
+MIDGUARD MASK /// HITECH CRIME
+
 ![](hc-mask1.jpg)
 ![](hc-mask2.jpg)
 
