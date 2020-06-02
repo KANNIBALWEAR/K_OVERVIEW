@@ -9,7 +9,11 @@ Stealth #techwear clothing & accessories — 𝘍𝘶𝘵𝘶𝘳𝘦 𝘵𝘰 �
 
 Ways to stand out in an oversaturated clothing brand market:
 - innovate your product
-- innovate your communication
+- innovate your communication'
+
+## NOTES
+
+- usage of Verisium https://verisium.com/
 
 **Naming:**
 
