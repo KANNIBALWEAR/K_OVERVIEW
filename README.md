@@ -56,6 +56,8 @@ community: carriers / injections / modders / techwear modding
 ## KANNIBAL SEASONS_
 CURRENT SEASON_ 00RAW
 
+- 2019 / [-01RAW_Season][x] / -01RAW / Liminal Drifter - Kannibal Wear Season
+
 - 2020 / [00RAW_Season](https://github.com/KANNIBALWEAR/00RAW_Season) / 00RAW / Raw Initiation - Kannibal Wear Season 
 
 - 2021 / [01FS_Season](https://github.com/KANNIBALWEAR/01FS_Season) / 01FS / First Swipe - Kannibal Wear Season 
