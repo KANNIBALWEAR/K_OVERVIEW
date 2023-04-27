@@ -56,17 +56,17 @@ community: carriers / injections / modders / techwear modding
 ## KANNIBAL SEASONS_
 CURRENT SEASON_ 00RAW
 
-- 2019 / [-01RAW_Season][x] / -01RAW / Liminal Drifter - Kannibal Wear Season
+- 2019 / [-01.LM_Season](https://github.com/KANNIBALWEAR/00LM_Season)] / -01RAW / Liminal Drifter - Kannibal Wear Season
 
-- 2020 / [00RAW_Season](https://github.com/KANNIBALWEAR/00RAW_Season) / 00RAW / Raw Initiation - Kannibal Wear Season 
+- 2020 / [00.RAW_Season](https://github.com/KANNIBALWEAR/00RAW_Season) / 00RAW / Raw Initiation - Kannibal Wear Season 
 
-- 2021 / [01FS_Season](https://github.com/KANNIBALWEAR/01FS_Season) / 01FS / First Swipe - Kannibal Wear Season 
+- 2021 / [01.FS_Season](https://github.com/KANNIBALWEAR/01FS_Season) / 01FS / First Swipe - Kannibal Wear Season 
 
-- 2022 / [02IS_Season](https://github.com/KANNIBALWEAR/02IS_Season) / 02IS / Independent Strain - Kannibal Wear Season 
+- 2022 / [02.IS_Season](https://github.com/KANNIBALWEAR/02IS_Season) / 02IS / Independent Strain - Kannibal Wear Season 
 
-- 2023 / [03TH_Season](https://github.com/KANNIBALWEAR/03TH_Season) / 03TH /Tactical Haptics - Kannibal Wear Season 
+- 2023 / [03.TH_Season](https://github.com/KANNIBALWEAR/03TH_Season) / 03TH /Tactical Haptics - Kannibal Wear Season 
 
-- 2024 / [04EID_Season](https://github.com/KANNIBALWEAR/04EID_Season) / 04EID / Everything Into Dust - Kannibal Wear Season  
+- 2024 / [04.EID_Season](https://github.com/KANNIBALWEAR/04EID_Season) / 04EID / Everything Into Dust - Kannibal Wear Season  
 
 # PRODUCTS_
 
